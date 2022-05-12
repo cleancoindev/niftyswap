@@ -4635,6 +4635,11 @@ multi-token-standard@2.0.1:
   resolved "https://registry.yarnpkg.com/multi-token-standard/-/multi-token-standard-2.0.1.tgz#91d9888c0508691389829d1b67434c5f2e991697"
   integrity sha512-Fhwu+hCufS4AAiBxO+v0uYQp298R69xo1Diprqee8gew2Oh4FgsqtuBwELFhngTy4rmRUM85A+RwbAgmmZliWg==
 
+multi-token-standard@2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/multi-token-standard/-/multi-token-standard-2.2.2.tgz#f1b0bf128c096818c7f356ae87746b92504fa620"
+  integrity sha512-2LW2/71bQWsRwuBZXNo0txF8MmvpLnb+Kc4Oj+VU27JLO7osBkyy8yhB+1gyM7k7ii4na1fOt8hiH4LEu4a0cg==
+
 multibase@^0.7.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/multibase/-/multibase-0.7.0.tgz#1adfc1c50abe05eefeb5091ac0c2728d6b84581b"
