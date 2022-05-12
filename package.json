@@ -26,7 +26,7 @@
     "stop:ganache": "ps aux | grep ganache-cli | grep -v grep | awk '{print $2}' | xargs kill -9"
   },
   "dependencies": {
-    "erc20-meta-token": "2.1.0",
+    "erc20-meta-token": "2.2.0",
     "multi-token-standard": "2.0.1"
   },
   "devDependencies": {

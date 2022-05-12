@@ -2255,12 +2255,12 @@ env-paths@^2.2.0:
   resolved "https://registry.yarnpkg.com/env-paths/-/env-paths-2.2.0.tgz#cdca557dc009152917d6166e2febe1f039685e43"
   integrity sha512-6u0VYSCo/OW6IoD5WCLLy9JUGARbamfSavcNXry/eu8aHVFei6CD3Sw+VGX5alea1i9pgPHW0mbu6Xj0uBh7gA==
 
-erc20-meta-token@2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/erc20-meta-token/-/erc20-meta-token-2.1.0.tgz#2d2e9a9749d0447d4489726e9b798e3612eaf9be"
-  integrity sha512-Gfa5YXCYmb9JxTLe+8TKrc3bm1tY0Zj2gFYE2IjXaZ+Je+sqyziqOGNAoCpoNsjARW7X2Uwj6yEpiZZ7BjvUqQ==
+erc20-meta-token@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/erc20-meta-token/-/erc20-meta-token-2.2.0.tgz#bb8b7b8baaf732389a6e9b6610120ee62f5c0fa5"
+  integrity sha512-89Uhmf5+OQMxKVrVqCar3Fldl9glRhHm7a+v/GveL3/R1pXzePXWAKrs1+CuvJBMtsgeZ1EIziJEysaoGY/UfA==
   dependencies:
-    multi-token-standard "2.0.1"
+    multi-token-standard "2.2.0"
 
 errno@~0.1.1:
   version "0.1.8"
@@ -4634,6 +4634,11 @@ multi-token-standard@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/multi-token-standard/-/multi-token-standard-2.0.1.tgz#91d9888c0508691389829d1b67434c5f2e991697"
   integrity sha512-Fhwu+hCufS4AAiBxO+v0uYQp298R69xo1Diprqee8gew2Oh4FgsqtuBwELFhngTy4rmRUM85A+RwbAgmmZliWg==
+
+multi-token-standard@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/multi-token-standard/-/multi-token-standard-2.2.0.tgz#42462bcf76db04747c4dcf0ad8741b59f6ee8a04"
+  integrity sha512-rBd/NM7dmyahHyDNSrbWDLOuNorEEUl8/XE6n7XwtRnq56DEGPNk4vteGXipE1UQp1Ktqdj/6TVI1AKMZducKQ==
 
 multibase@^0.7.0:
   version "0.7.0"
