@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "erc20-meta-token": "2.1.0",
-    "multi-token-standard": "2.0.1"
+    "multi-token-standard": "2.2.2"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.0",
